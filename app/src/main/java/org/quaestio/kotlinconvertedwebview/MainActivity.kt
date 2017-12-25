@@ -19,7 +19,7 @@ class MainActivity : AppCompatActivity() {
 
         val webSettings = mWebView.settings
         webSettings.javaScriptEnabled = true
-        mWebView.loadUrl("https://quaestio.org")
+        mWebView.loadUrl("https://quaestio.org/")
         mWebView.webViewClient = HelloWebViewClient()
         WebView.setWebContentsDebuggingEnabled(false)
 
