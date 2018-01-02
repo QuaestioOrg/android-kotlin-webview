@@ -19,3 +19,5 @@ Just change the URL;
 
 # Credits
 A live demo can be seen from this [web app](https://play.google.com/store/apps/details?id=org.quaestio.quaestio.org) which simply loads the homepage of [Quaestio.org](https://quaestio.org/).
+
+* Boilerplate code from [Vamsi Tallapudi](https://github.com/vamsitallapudi/create-android-app-for-website)'s [repository](https://github.com/vamsitallapudi/create-android-app-for-website).
