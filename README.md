@@ -22,6 +22,8 @@ Edit the URL indirectly from **strings.xml** from:
 
 `   <string name="website_url">http://your.url</string>`
 
+&nbsp;
+
 Or edit the `loadURL`directly in **MainActivity.kt** from:
 
 `21        mWebView.loadUrl(getString(R.string.website_url))`
