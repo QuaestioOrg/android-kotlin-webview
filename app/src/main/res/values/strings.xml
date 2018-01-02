@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Quaestio.org</string>
+    <string name="url_website">https://quaestio.org/</string>
 </resources>
