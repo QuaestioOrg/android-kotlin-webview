@@ -38,6 +38,16 @@ to:
 
 `30        if (Uri.parse(url).host == "your.url") {`
 
+&nbsp;
+
+* And don't forget to edit the following lines in the **AndroidManifest.xml** file:
+
+`                <data`
+
+`                    android:host="quaestio.org"`
+
+`                    android:scheme="https" />`
+
 # Credits
 A live demo can be seen from this [web app](https://play.google.com/store/apps/details?id=org.quaestio.quaestio.org) which simply loads the homepage of [Quaestio.org](https://quaestio.org/).
 * Boilerplate code from [Vamsi Tallapudi](https://github.com/vamsitallapudi/create-android-app-for-website)'s [repository](https://github.com/vamsitallapudi/create-android-app-for-website).
