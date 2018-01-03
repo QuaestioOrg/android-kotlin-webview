@@ -1,5 +1,6 @@
 package org.quaestio.kotlinconvertedwebview
 
+import android.annotation.SuppressLint
 import android.content.Intent
 import android.net.Uri
 import android.os.Bundle
@@ -11,6 +12,7 @@ import kotlinx.android.synthetic.main.activity_webview.*
 
 class MainActivity : AppCompatActivity() {
 
+    @SuppressLint("SetJavaScriptEnabled")
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
 
@@ -53,3 +55,4 @@ class MainActivity : AppCompatActivity() {
     }
 
 }
+
