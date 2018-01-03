@@ -11,12 +11,14 @@ A [WebView](https://developer.android.com/guide/webapps/webview.html) simply con
 * and pick the package.
 
 # Usage
-Edit the URL indirectly from **strings.xml** from:
+* Edit the URL indirectly from **strings.xml** from:
 
 `   <string name="website_domain">quaestio.org</string>`
 
 `    <string name="website_url">https://quaestio.org</string>`
-* to:
+
+to:
+
 
 `   <string name="website_domain">your.url</string>`
 
@@ -24,12 +26,13 @@ Edit the URL indirectly from **strings.xml** from:
 
 &nbsp;
 
-Or edit the `loadURL`directly in **MainActivity.kt** from:
+* Or edit the `loadURL`directly in **MainActivity.kt** from:
 
 `21        mWebView.loadUrl(getString(R.string.website_url))`
 
 `30        if (Uri.parse(url).host == getString(R.string.website_domain)) {`
-* to:
+
+to:
 
 `21        mWebView.loadUrl("http://your.url")`
 
