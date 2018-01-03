@@ -11,7 +11,7 @@ A [WebView](https://developer.android.com/guide/webapps/webview.html) simply con
 * and pick the package.
 
 # Usage
-* Edit the URL indirectly from **strings.xml** from:
+* Change the URL indirectly from **strings.xml** from:
 
 `   <string name="website_domain">quaestio.org</string>`
 
@@ -26,7 +26,7 @@ to:
 
 &nbsp;
 
-* Or edit the `loadURL`directly in **MainActivity.kt** from:
+* Or change the `loadURL`directly in **MainActivity.kt** from:
 
 `21        mWebView.loadUrl(getString(R.string.website_url))`
 
