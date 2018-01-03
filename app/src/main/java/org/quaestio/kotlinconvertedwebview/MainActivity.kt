@@ -1,14 +1,13 @@
 package org.quaestio.kotlinconvertedwebview
 
-import android.graphics.Bitmap
+import android.content.Intent
+import android.net.Uri
 import android.os.Bundle
 import android.support.v7.app.AppCompatActivity
-import android.webkit.WebSettings
 import android.webkit.WebView
 import android.webkit.WebViewClient
 
 class MainActivity : AppCompatActivity() {
-
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -27,9 +26,12 @@ class MainActivity : AppCompatActivity() {
 
     private inner class HelloWebViewClient : WebViewClient() {
 
-
-        override fun shouldOverrideUrlLoading(webView: WebView, url: String): Boolean {
-            webView.loadUrl(url)
+        override fun shouldOverrideUrlLoading(view: WebView, url: String): Boolean {
+            if (Uri.parse(url).host == getString(R.string.website_domain)) {
+                return false
+            }
+            val intent = Intent(Intent.ACTION_VIEW, Uri.parse(url))
+            startActivity(intent)
             return true
         }
 
