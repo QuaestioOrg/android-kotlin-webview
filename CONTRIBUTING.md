@@ -16,7 +16,7 @@ Do search and read about the previous submitted entries prior to submit new ones
 
 [**Issues**](https://github.com/QuaestioOrg/kotlin-converted-webview/issues) are generally opened by the author of this sample, but contributors may specially open new issues whenever they stumble upon official warnings notified by Android Studio code inspection during the use of the sample which haven't been reported by the repository owner previously.
 
-Be sure to clearly entitle and describe the issue and provide relevant information and a code sample or a test demonstration.
+Be sure to clearly entitle and comment the issue by providing relevant information and a code sample or a test demonstration.
 
 Whoever opens the issue must provide a well formatted text respecting the rules written next: 
 
@@ -33,6 +33,8 @@ b) when plural: "reference reference..." with each word linked.
 * **the label** should be applied exclusively by the repository owner.
 
 **WARNING:** do not open up an issue whether the bug is a security vulnerability; instead send a private e-mail informing the repository owner directly.
+
+Just follow the [**Issue Template**](https://github.com/QuaestioOrg/kotlin-converted-webview/blob/master/ISSUE_TEMPLATE.md) for the best experience.
 
 ### Pull Requests
 
