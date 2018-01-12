@@ -13,7 +13,7 @@ An [Android WebView](https://developer.android.com/guide/webapps/webview.html) s
 ## Installation
 1. Clone the project;
 2. unzip the folder;
-3. run Android Studio;
+3. run [Android Studio](https://developer.android.com/studio/index.html);
 4. open a new project;
 5. and pick the package.
 
@@ -31,8 +31,6 @@ to:
 
 `   <string name="website_url">http://your.url</string>`
 
-&nbsp;
-
 Or change the `loadURL`directly in [MainActivity.kt](https://github.com/QuaestioOrg/kotlin-converted-webview/blob/master/app/src/main/java/org/quaestio/kotlinconvertedwebview/MainActivity.kt) from:
 
 `21        mWebView.loadUrl(getString(R.string.website_url))`
@@ -44,8 +42,6 @@ to:
 `21        mWebView.loadUrl("http://your.url")`
 
 `30        if (Uri.parse(url).host == "your.url") {`
-
-&nbsp;
 
 And don't forget to edit the following lines in the [AndroidManifest.xml](https://github.com/QuaestioOrg/kotlin-converted-webview/blob/master/app/src/main/AndroidManifest.xml) file:
 
