@@ -60,3 +60,7 @@ A live demo can be seen from this [web app](https://play.google.com/store/apps/d
 
 ## License
 Licensed under the [Apache License, Version 2.0 (the "License")](http://www.apache.org/licenses/LICENSE-2.0); you may not use files of this sample except in compliance with its [License](https://github.com/QuaestioOrg/kotlin-converted-webview/blob/master/LICENSE).
+
+Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "as is" basis, without warranties or conditions of any kind, either express or implied.
+
+See the License for the specific language governing permissions and limitations under the License.
