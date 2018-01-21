@@ -1,4 +1,4 @@
-# Kotlin Converted WebView
+# Android Kotlin WebView
 
 ## Description
 An [Android WebView](https://developer.android.com/guide/webapps/webview.html) simply converted from Java to Kotlin using the basic [Android Studio tool](https://developer.android.com/kotlin/get-started.html#convert-to-kotlin-code).
