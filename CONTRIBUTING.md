@@ -14,7 +14,7 @@ Do search and read about the previous submitted entries prior to submit new ones
 
 ### Issues
 
-[**Issues**](https://github.com/QuaestioOrg/kotlin-converted-webview/issues) are generally opened by the author of this sample, but contributors may specially open new issues whenever they stumble upon official warnings notified by Android Studio code inspection during the use of the sample which haven't been reported by the repository owner previously.
+[**Issues**](https://github.com/QuaestioOrg/kotlin-converted-webview/issues) are generally opened by the author of this sample, but contributors may specially open new issues whenever they stumble upon official warnings notified by Android Studio code inspection during the use of the sample which have not been reported by the repository owner previously.
 
 Be sure to clearly entitle and comment the issue by providing relevant information and a code sample or a test demonstration.
 
@@ -23,7 +23,7 @@ Whoever opens the issue must provide a well formatted text respecting the rules 
 * **the title** of the issue should be extracted from the first phrase (not the headline and without punctuation) of the warning note and written between quotes (replacing inside quotes for single quotes) like:
 >"Overrides deprecated member in 'android.webkit.WebViewClient'"
 
-* **the description** of an issue should report the code inspection warning and replicate the affected piece of code or log reports besides adding a brief definition about the situation; subjective interferences aren't desirable. 
+* **the description** of an issue should report the code inspection warning and replicate the affected piece of code or log reports besides adding a brief definition about the situation; subjective interferences are not desirable. 
 
 * **the reference** should be provided from the best sources in topics and:
 
@@ -38,7 +38,7 @@ Just follow the [**Issue Template**](https://github.com/QuaestioOrg/kotlin-conve
 
 ### Pull Requests
 
-[**Pull Requests**](https://github.com/QuaestioOrg/kotlin-converted-webview/pulls) must clearly describe the problem and the solution so as to demostrante its validity and associate the issues related.
+[**Pull Requests**](https://github.com/QuaestioOrg/kotlin-converted-webview/pulls) must clearly describe the problem and the solution so as to demostrate its validity and associate the issues related.
 
 ## References
 
@@ -50,10 +50,10 @@ Later a pull request example might be available here.
 
 And soon a **Code of Conduct** will be linked here too.
 
-If you have any doubts, please, don't hesitate to send an e-mail to: org.quaestio@quaestio.org.
+If you have any doubts, please, do not hesitate to send an e-mail to: org.quaestio@quaestio.org.
 
 ## Thanks
 
-Please, contribute to improve this sample with good faith and help to solve the ongoing issues by dedicating positve support in your pull requests.
+Please, contribute to improve this sample with good faith and help to solve the ongoing issues by dedicating positive support in your pull requests.
 
 Thank you in advance!
