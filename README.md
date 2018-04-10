@@ -56,7 +56,8 @@ This sample is open to contributions; please, read [Contributing guidelines](htt
 
 ## Credits
 A live demo can be seen from [Quaestio's web app](https://e5kmd.app.goo.gl/zvpW) which loads similar Android Kotlin WebView pieces of code.
-* [Vamsi Tallapudi](https://github.com/vamsitallapudi/create-android-app-for-website)'s [sample app](https://github.com/vamsitallapudi/create-android-app-for-website).
+
+A special thanks to [Vamsi Tallapudi](https://github.com/vamsitallapudi/create-android-app-for-website)'s [Android Java WebView sample](https://github.com/vamsitallapudi/create-android-app-for-website) and [CodeRefer](https://www.coderefer.com/create-android-app-for-website/)'s tutorials for the introductory lessons they provided in the past.
 
 ## License
 Licensed under the [Apache License, Version 2.0 (the "License")](http://www.apache.org/licenses/LICENSE-2.0); you may not use files of this sample except in compliance with its [License](https://github.com/QuaestioOrg/kotlin-converted-webview/blob/master/LICENSE).
