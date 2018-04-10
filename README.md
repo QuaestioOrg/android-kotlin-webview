@@ -55,7 +55,7 @@ And don't forget to edit the following lines in the [AndroidManifest.xml](https:
 This sample is open to contributions; please, read [Contributing guidelines](https://github.com/QuaestioOrg/kotlin-converted-webview/blob/master/CONTRIBUTING.md) before opening new [issues](https://github.com/QuaestioOrg/kotlin-converted-webview/issues) or submitting [pull requests](https://github.com/QuaestioOrg/kotlin-converted-webview/pulls) to this repository.
 
 ## Credits
-A live demo can be seen from this [web app](https://play.google.com/store/apps/details?id=org.quaestio.quaestio.org) which simply loads the homepage of [Quaestio.org](https://quaestio.org/).
+A live demo can be seen from [Quaestio's web app](https://e5kmd.app.goo.gl/zvpW) which loads similar Android Kotlin WebView pieces of code.
 * [Vamsi Tallapudi](https://github.com/vamsitallapudi/create-android-app-for-website)'s [sample app](https://github.com/vamsitallapudi/create-android-app-for-website).
 
 ## License
