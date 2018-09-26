@@ -3,6 +3,8 @@
 ## Description
 An [Android WebView](https://developer.android.com/guide/webapps/webview.html) simply converted from Java to Kotlin using the basic [Android Studio tool](https://developer.android.com/studio/projects/add-kotlin#convert-to-kotlin-code).
 
+[![API](https://img.shields.io/badge/API-19%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=19)
+
 ## Table of Contents
 * [Installation](https://github.com/QuaestioOrg/kotlin-converted-webview#installation)
 * [Usage](https://github.com/QuaestioOrg/kotlin-converted-webview#usage)
