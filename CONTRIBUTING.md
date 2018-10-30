@@ -34,11 +34,11 @@ b) when plural: "reference reference..." with each word linked.
 
 **WARNING:** do not open up an issue whether the bug is a security vulnerability; instead send a private e-mail informing the repository owner directly.
 
-Just follow the [**Issue Template**](https://github.com/QuaestioOrg/kotlin-converted-webview/blob/master/ISSUE_TEMPLATE.md) for the best experience.
+Just follow the [**Issue Template**](/ISSUE_TEMPLATE.md) for the best experience.
 
 ### Pull Requests
 
-[**Pull Requests**](https://github.com/QuaestioOrg/kotlin-converted-webview/pulls) must clearly describe the problem and the solution so as to demostrate its validity and associate the issues related.
+[**Pull Requests**](https://github.com/QuaestioOrg/kotlin-converted-webview/pulls) must clearly describe the problem and the solution so as to demonstrate its validity and associate the issues related.
 
 ## References
 
