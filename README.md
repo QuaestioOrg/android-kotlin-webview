@@ -1,9 +1,9 @@
 # Android Kotlin WebView
 
-## Description
-An [Android WebView](https://d.android.com/guide/webapps/webview) simply converted from Java to [Kotlin](https://kotlinlang.org/) using the basic [Android Studio tool](https://developer.android.com/studio/projects/add-kotlin#convert-to-kotlin-code).
-
 [![API](https://img.shields.io/badge/API-19%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=19)
+
+## Description
+An [Android WebView](https://d.android.com/guide/webapps/webview) simply converted from [Java](https://www.java.com/) to [Kotlin](https://kotlinlang.org/) using the basic [Android Studio tool](https://developer.android.com/studio/projects/add-kotlin#convert-to-kotlin-code).
 
 ## Table of Contents
 * [Installation](#installation)
