@@ -60,7 +60,9 @@ This sample is open to contributions; please, read [Contributing guidelines](/CO
 ## Credits
 A live demo can be seen from [Quaestio's web app](https://e5kmd.app.goo.gl/zvpW) which loads similar **Android Kotlin WebView** pieces of code.
 
-A special thanks to [Vamsi Tallapudi](https://github.com/vamsitallapudi/create-android-app-for-website)'s [Android Java WebView sample](https://github.com/vamsitallapudi/create-android-app-for-website) and [CodeRefer's tutorials](https://www.coderefer.com/create-android-app-for-website/) for the introductory lessons they provided in the past.
+A special thanks to [Vamsi Tallapudi](https://github.com/vamsitallapudi)'s [Android Java WebView sample](https://github.com/vamsitallapudi/create-android-app-for-website) and [CodeRefer's tutorials](https://www.coderefer.com/create-android-app-for-website/) for the introductory lessons they provided in the past.
+
+
 
 ## Screenshots
 ![](/screenshots/1_hires.png) ![](/screenshots/2_hires.png)
